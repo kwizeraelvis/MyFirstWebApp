@@ -1,0 +1,172 @@
+Date: 30/10/2019 18:01:57:678
+Category: default
+File: 
+Function: 
+Version: 2
+Message: Server online
+
+
+Date: 30/10/2019 18:37:38:603
+Category: default
+File: 
+Function: 
+Version: 2
+Message: Cannot mix incompatible Qt library (version 0x50907) with this library (version 0x50c02)
+
+
+FATAL: SERVER OFFLINE
+
+Date: 30/10/2019 18:54:03:567
+Category: default
+File: 
+Function: 
+Version: 2
+Message: Cannot mix incompatible Qt library (version 0x50907) with this library (version 0x50c02)
+
+
+FATAL: SERVER OFFLINE
+
+Date: 30/10/2019 18:54:23:615
+Category: default
+File: 
+Function: 
+Version: 2
+Message: Cannot mix incompatible Qt library (version 0x50907) with this library (version 0x50c02)
+
+
+FATAL: SERVER OFFLINE
+
+Date: 30/10/2019 19:01:44:299
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 30/10/2019 21:19:00:909
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 30/10/2019 21:38:29:669
+Category: default
+File: 
+Function: 
+Version: 2
+Message: Cannot mix incompatible Qt library (version 0x50907) with this library (version 0x50c02)
+
+
+FATAL: SERVER OFFLINE
+
+Date: 30/10/2019 21:42:53:242
+Category: default
+File: 
+Function: 
+Version: 2
+Message: Cannot mix incompatible Qt library (version 0x50907) with this library (version 0x50c02)
+
+
+FATAL: SERVER OFFLINE
+
+Date: 30/10/2019 21:58:58:411
+Category: default
+File: 
+Function: 
+Version: 2
+Message: Cannot mix incompatible Qt library (version 0x50907) with this library (version 0x50c02)
+
+
+FATAL: SERVER OFFLINE
+
+Date: 30/10/2019 22:13:29:381
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 30/10/2019 22:15:03:020
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Error:  "The bound address is already in use" 
+
+
+Date: 30/10/2019 22:15:03:020
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server offline
+
+
+Date: 30/10/2019 22:15:06:879
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Error:  "The bound address is already in use" 
+
+
+Date: 30/10/2019 22:15:06:880
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server offline
+
+
+Date: 30/10/2019 22:15:10:459
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Error:  "The bound address is already in use" 
+
+
+Date: 30/10/2019 22:15:10:459
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server offline
+
+
+Date: 30/10/2019 22:15:50:511
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Error:  "The bound address is already in use" 
+
+
+Date: 30/10/2019 22:15:50:511
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server offline
+
+
+Date: 30/10/2019 22:22:04:008
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Error:  "The bound address is already in use" 
+
+
+Date: 30/10/2019 22:22:04:022
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server offline
+
+
